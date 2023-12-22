@@ -16,7 +16,7 @@ key_features:
     - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
       title: Live Caption
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      image: /images/commercial-dryer-repair-los-angeles.webp
+   
     - icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
       title: Smart Reply
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
