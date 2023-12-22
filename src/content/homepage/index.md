@@ -1,21 +1,22 @@
 ---
 banner:
-  title: "Scale design & dev operations with Avocode Enterprise"
-  content: "A fully integrated suite of authentication & authoriz products, Stytch’s platform removes the headache of."
+  title: "Same Day Appliance Repair"
+  content: "Serving Los Angeles and surrounding"
   image: /images/banner-img.png
   button:
-    label: Download The Theme
+    label: Call Us
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
     enable: true
 
 ##key features
 key_features:
-  title: "The Highlighting Part Of Our Solution"
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  title: "Same Day Household Appliance Repair, Installation, and Maintenance"
+  description: Our same day appliance repair experts will fix your appliance on the first visit in 90% of cases. Our trained technicians have parts on hand to ensure a quick repair.
   feature_list:
     - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
       title: Live Caption
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      image: /commercial-dryer-repair-los-angeles.webp
     - icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
       title: Smart Reply
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
