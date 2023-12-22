@@ -2,7 +2,7 @@
 banner:
   title: "Same Day Appliance Repair"
   content: "Serving Los Angeles and surrounding"
-  image: /images/commercial-dryer-repair-los-angeles.webp
+  image: /images/same-day-appliance-repair-servoces.png
   button:
     label: Call Us
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
@@ -16,7 +16,7 @@ key_features:
     - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
       title: Live Caption
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      
+      image: /images/commercial-dryer-repair-los-angeles.webp
     - icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
       title: Smart Reply
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -78,7 +78,6 @@ service:
         label: Know About Us
         link: "#"
         enable: true
-
 #testimonial
 testimonial:
   title: Our customers have nice things to say about us
