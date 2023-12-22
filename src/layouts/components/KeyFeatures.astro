@@ -21,12 +21,6 @@ const { title, description, feature_list } = key_features;
       </div>
       <div class="mt-6 lg:col-5 lg:mt-0">
         <p set:html={markdownify(description)} />
-        <Image
-          alt="banner"
-          src={Image}
-          width={200}
-          height={200}
-        />
       </div>
     </div>
     <HomapageFeature feature_list={feature_list} client:load />
