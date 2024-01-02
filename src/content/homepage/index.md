@@ -2,7 +2,7 @@
 banner:
   title: "Same Day Appliance Repair"
   content: "Serving Los Angeles and surrounding"
-  image: /images/same-day-appliance-repair-servoces.png
+  image: /images/same-day-appliance-repair-services.png
   button:
     label: Call Us
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
