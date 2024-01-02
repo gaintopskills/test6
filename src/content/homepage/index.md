@@ -50,6 +50,9 @@ key_features:
     - icon: "monitor"  #icon package react-feather-icon [https://feathericons.com/]
       title: Live Caption
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    - icon: "monitor"  #icon package react-feather-icon [https://feathericons.com/]
+      title: Live Caption
+      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 #service
 service:
