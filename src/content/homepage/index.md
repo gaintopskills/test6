@@ -11,7 +11,7 @@ banner:
 ##key features
 key_features:
   title: "Same Day Household Appliance Repair, Installation, and Maintenance"
-  description: Our same day appliance repair experts will fix your appliance on the first visit in 90% of cases. Our trained technicians have parts on hand to ensure a quick repair.
+  description: Our same day appliance repair experts will fix your appliance on the first visit in 90% of cases. Our trained technicians have parts on hand to ensure a quick repair!
   feature_list:
     - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
       title: Live Caption
